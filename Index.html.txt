@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Sanatan Dharma</title>
+  <style>
+    body { background:#fffbe6; text-align:center; font-family:Arial; }
+    h1 { color:#d2691e; }
+    p { font-size:18px; }
+  </style>
+</head>
+<body>
+  <h1>🌼 সনাতন ধর্মে আপনাকে স্বাগতম 🌼</h1>
+  <p>এটি GitHub Pages এ হোস্ট করা একটি ফ্রি ওয়েবসাইট।</p>
+  <p>📿 হর হর মহাদেব 🙏 জয় শ্রী রাম</p>
+</body>
+</html>
